@@ -1,4 +1,4 @@
-# Статья
+# Статьи
 > **Важно!** В папке solution находится вариант решенния задания. Постарайтесь не смотреть ответ до тех пор, пока не сделаете свой вариант решения. Ваш вариант может отличаться от варианта из solution. На задачу отведено 2 часа.
 
 Перед тем как приступить к заданиям рекомендуем ознакомиться с материалом по ссылке - https://learn.javascript.ru/css-selectors
@@ -8,9 +8,6 @@
 *Тебе могут пригодиться следующие теги: `<h1>`, `<h2>`, `div`, `<small>`, `<p>`, `<article>`, `<span>`*
 
 *Тебе могут пригодиться следующие стили: `background-color`, `color`, `padding`, `border-width`, `border-style`, `padding`, `color`, `font-weight`, `margin-bottom`*
-
-##### Пример фото 1
-[<img src="/readme-assets/articles.png" width="800"/>](/readme-assets/articles.png)
 
 ## Релиз 0
 - Создай страницу `index.html`.
