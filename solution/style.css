@@ -1,0 +1,38 @@
+h1 {
+  background-color: blue;
+  color: white;
+  padding: 4px;
+}
+
+h2 {
+  background-color: black;
+  color: white;
+  padding: 4px;
+}
+
+small {
+  border-width: 1px;
+  border-style: dashed;
+  padding: 4px;
+  color: black;
+}
+
+span {
+  font-weight: bold;
+}
+
+article {
+  margin-bottom: 60px;
+}
+
+article:first-child {
+  color: red;
+}
+
+article:nth-child(2) {
+  color: green;
+}
+
+article:last-child {
+  color: blue;
+}
