@@ -9,12 +9,14 @@
 
 *Тебе могут пригодиться следующие стили: `background-color`, `color`, `padding`, `border-width`, `border-style`, `padding`, `color`, `font-weight`, `margin-bottom`*
 
+
 ## Коммит 0
 - Создай страницу `index.html`.
 - Создай файл `style.css`.
 - Подключи файл `style.css` к странице `index.html`.
 
 Наполни страницу стандартной разметкой: `<!DOCTYPE html>`, `html`, `head`, `body`
+
 
 ## Коммит 1
 - Скопируй в `body` текст из файла `articles.txt`.
